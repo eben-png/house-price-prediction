@@ -7,6 +7,6 @@
 ## Usage
 1. Run the script: `python main.py`
 2. Follow the menu to:
-   - Test custom inputs
    - Get accuracy on a split of the data
    - Get accuracy on the full dataset
+   - Download the model for local use
