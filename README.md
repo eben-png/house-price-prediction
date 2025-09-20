@@ -1,5 +1,7 @@
 # House price prediction
 
+Dataset used: https://www.kaggle.com/datasets/camnugent/california-housing-prices
+
 ## Setup
 1. Clone the repository
 2. Install dependencies: `pip install pandas scikit-learn`
@@ -10,3 +12,4 @@
    - Get accuracy on a split of the data
    - Get accuracy on the full dataset
    - Download the model for local use
+
