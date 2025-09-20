@@ -13,3 +13,6 @@ Dataset used: https://www.kaggle.com/datasets/camnugent/california-housing-price
    - Get accuracy on the full dataset
    - Download the model for local use
 
+
+## Demo
+![Demo](demo.gif)
